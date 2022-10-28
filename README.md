@@ -1,4 +1,4 @@
-<h1> Hi, person, robot or alien. I’m Jesús and this is my profile <sub>👋 Fullstack web developer and Data analyst.</sub></h1>  
+# Hi, person, robot or alien. I’m Jesús and this is my profile <sub>👋 Fullstack web developer and Data analyst.</sub>
 - 👀 I’m interested in music, football, coding, movies, history and educational videos.
 - 🌱 I’m currently learning PostgreSQL Databse Management and JS Mocha unit testing.
 - 💞️ I’m looking to collaborate on applied statistics and Web Development...
