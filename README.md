@@ -8,9 +8,8 @@
 ---> Email: jjesus.bautistag95@gmail.com
 ...
 
-
+## Main technologies I have used:
 <div style="display: flex">
-  ## Main technologies I have used:
   
   [![HTML5](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
   
