@@ -6,7 +6,8 @@
 ---> Twitter: JJesusBautista
 ---> Email: jjesus.bautistag95@gmail.com
 ...
-<div style='background-color:white'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" /></div>
+[![HTML5](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <!---
 jjesus-bautista-garcia/jjesus-bautista-garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
