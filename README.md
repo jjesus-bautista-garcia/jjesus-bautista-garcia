@@ -4,6 +4,9 @@
 <p>💞️ I’m looking to collaborate on applied statistics and Web Development...</p>
 <p>📫 How to reach me: </p>
 <p>---> Twitter: JJesusBautista</p>
+
+[![Twitter](https://img.shields.io/badge/@JJesusBautista-FFFFFF?style=flat-square&logo=twitter&logoColor=00acee)](https://twitter.com/jjesusbautista)
+[![Gmail](https://img.shields.io/badge/@JJesusBautista-FFFFFF?style=flat-square&logo=gmail&logoColor=BB001B)](mailto:jjesus.bautistag95@gmail.com)
 <p>---> Email: jjesus.bautistag95@gmail.com</p>
 ...
 
