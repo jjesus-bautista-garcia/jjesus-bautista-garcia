@@ -1,6 +1,6 @@
 <h1>Hi, person, robot or alien. I’m Jesús and this is my profile <br> <sub>👋 Fullstack web developer and Data analyst.</sub></h1>
 <p>👀 I’m interested in music, football, coding, movies, history and educational videos.</p>
-<p>🌱 I’m currently learning PostgreSQL Databse Management and JS Mocha unit testing.</p>
+<p>🌱 I’m currently learning PostgreSQL Database Management and JS Mocha unit testing.</p>
 <p>💞️ I’m looking to collaborate on applied statistics and Web Development...</p>
 <p>📫 How to reach me: </p>
 
