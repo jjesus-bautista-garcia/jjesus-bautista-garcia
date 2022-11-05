@@ -1,5 +1,12 @@
 <h1>Hi, person, robot or alien. I’m Jesús and this is my profile <br> <sub>👋 Fullstack web developer and Data analyst.</sub></h1>
 
+
+<div align="center">
+  <a href="https://github.com/jjesus-bautista-garcia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjesus-bautista-garcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjesus-bautista-garcia&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
 <p>👀 I’m interested in music, football, coding, movies, history and educational videos.</p>
 <p>🌱 I’m currently learning PostgreSQL Database Management and JS Mocha unit testing.</p>
 <p>💞️ I’m looking to collaborate on applied statistics and Web Development...</p>
