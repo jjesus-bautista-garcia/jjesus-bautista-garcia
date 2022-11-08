@@ -5,6 +5,9 @@
   <a href="https://github.com/jjesus-bautista-garcia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjesus-bautista-garcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjesus-bautista-garcia&layout=compact&langs_count=7&theme=algolia"/>
+    
+  <!--Imagenes pokemon-->
+  <img src="https://archives.bulbagarden.net/media/upload/archive/7/7c/20100424195401%21Spr_4d_001_s.png" width="15%" align="center">
 </div>
 
 <p>👀 I’m interested in music, football, coding, movies, history and educational videos.</p>
@@ -34,9 +37,6 @@
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=flat-square&logo=postgresql&logoColor=2b6da3)](https://www.postgresql.org/)
 
 </div>
-
-<!--Imagenes pokemon-->
-<img src="https://archives.bulbagarden.net/media/upload/archive/7/7c/20100424195401%21Spr_4d_001_s.png" width="15%" align="center">
 
 
 <!---
