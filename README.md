@@ -36,7 +36,6 @@
 </div>
 
 <!--Imagenes pokemon-->
-![Bulba](https://user-images.githubusercontent.com/40780814/200102214-26cec347-ba8f-4c53-b4df-97104b7e6aaa.png)
 <img src="https://archives.bulbagarden.net/media/upload/archive/7/7c/20100424195401%21Spr_4d_001_s.png" width="15%" align="center">
 
 
